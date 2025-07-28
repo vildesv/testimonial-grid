@@ -1,6 +1,6 @@
 # Frontend Mentor - Testimonials grid section
 
-![Design preview for the Testimonials grid section coding challenge](./preview.jpg)
+![Design preview for the Testimonials grid section coding challenge](https://github.com/vildesv/testimonial-grid/blob/a95fec7eb17303f9556783890c105890f5c3f13d/preview.jpg)
 
 ## Welcome! 👋
 
